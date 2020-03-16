@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalMemoria", "PortalMemoria\PortalMemoria.csproj", "{4FC22EB2-38AF-4CAD-BE47-81B9C32B7599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC22EB2-38AF-4CAD-BE47-81B9C32B7599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC22EB2-38AF-4CAD-BE47-81B9C32B7599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC22EB2-38AF-4CAD-BE47-81B9C32B7599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC22EB2-38AF-4CAD-BE47-81B9C32B7599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEA6357-6ADD-4169-842A-2AC17CC3F0B1}
+	EndGlobalSection
+EndGlobal
